@@ -1,3 +1,5 @@
+# this file explores a csv with patientID and exam modality(s) of their visit and highlights modalities with higher demand
+
 import csv
 import numpy as numpy
 import pandas as pd
